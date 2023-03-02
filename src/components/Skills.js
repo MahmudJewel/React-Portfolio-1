@@ -45,7 +45,7 @@ export const Skills = () => {
                 infinite={true}
                 className="owl-carousel owl-theme skill-slider"
                 autoPlay={true}
-                autoPlaySpeed={5000}
+                autoPlaySpeed={2000}
               >
                 <div className="item">
                   <img src={meter1} alt="Image" />
