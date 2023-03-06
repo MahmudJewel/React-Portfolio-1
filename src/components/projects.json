@@ -1,0 +1,72 @@
+{
+    "Django": [
+        {
+            "title": "Shopping Mall",
+            "description": "Django",
+            "link":"https://github.com/MahmudJewel/E_commerce",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        },
+        {
+            "title": "Blog site",
+            "description": "Django",
+            "link": "https://github.com/MahmudJewel/techvillain",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        },
+        {
+            "title": "",
+            "description": "Django",
+            "link": "",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        },
+        {
+            "title": "",
+            "description": "Django",
+            "link": "",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        },
+        {
+            "title": "",
+            "description": "Django",
+            "link": "",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        },
+        {
+            "title": "",
+            "description": "Django",
+            "link": "",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        },
+        {
+            "title": "",
+            "description": "Django",
+            "link": "",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        },
+        {
+            "title": "",
+            "description": "Django",
+            "link": "",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        },
+        {
+            "title": "",
+            "description": "Django",
+            "link": "",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        },
+        {
+            "title": "",
+            "description": "Django",
+            "link": "",
+            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+        }
+    ],
+
+    "React": [
+        {
+            "title": "==> Djangoooooooooooooooo ===> ",
+            "description": "Design & Development",
+            "imgUrl": "projImg1"
+        }
+    ]
+}
