@@ -69,22 +69,34 @@
     ],
     "Full-Stack": [
         {
-            "title": "E-commerce Backend",
-            "description": "Django & Rest Framework",
-            "link": "https://github.com/MahmudJewel/E-commerce_backend",
-            "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
+            "title": "Blog with like,Comment using Django, React & DRF",
+            "description": "Django,React & DRF",
+            "link": "https://github.com/MahmudJewel/BlogWithLikeComment-DRF_Reactjs",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/reango-Blog.jpg"
         },
         {
-            "title": "E-commerce Backend",
-            "description": "Django & Rest Framework",
-            "link": "https://github.com/MahmudJewel/E-commerce_backend",
-            "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
+            "title": "Emoji-Based Calculator using Django, React & DRF",
+            "description": "Django,React & DRF",
+            "link": "https://github.com/MahmudJewel/Simple-calculator",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/reango-Calc.jpg"
         },
         {
-            "title": "E-commerce Backend",
-            "description": "Django & Rest Framework",
-            "link": "https://github.com/MahmudJewel/E-commerce_backend",
-            "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
+            "title": "Task Management using Django, React & DRF",
+            "description": "Django,React & DRF",
+            "link": "https://github.com/MahmudJewel/Reango_task_management",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/reango-Task.jpg"
+        },
+        {
+            "title": "ToDo using Django, Vuejs & DRF",
+            "description": "Django,Vuejs & DRF",
+            "link": "https://github.com/MahmudJewel/Todo-DRF-Vuejs",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/vuengo-toDo.jpg"
+        },
+        {
+            "title": "CRUD using Django, Vuejs & DRF",
+            "description": "Django,Vuejs & DRF",
+            "link": "https://github.com/MahmudJewel/CRUD-DRF-VUEJS",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/vuengo-Crud.jpg"
         }
     ],
     "Java": [
