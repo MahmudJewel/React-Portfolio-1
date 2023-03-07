@@ -139,10 +139,10 @@ export const Projects = () => {
                           
                         </Row>
                       </Tab.Pane>
-                      {/* Third event key ==== javaScript */}
+                      {/* Fourth event key ==== javaScript */}
                       <Tab.Pane eventKey="js">
                         <Row>
-                          {projectsData["Full-Stack"].map((project, index) => {
+                          {projectsData["JavaScript"].map((project, index) => {
                             return <ProjectCard key={index} {...project} /> ;
                           })}
                           

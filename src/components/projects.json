@@ -144,6 +144,32 @@
         }
         
     ],
+    "JavaScript": [
+        {
+            "title": "Portfolio",
+            "description": "HTML,CSS,JavaScript",
+            "link": "https://github.com/MahmudJewel/portfolio",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/js-portfolio.jpg"
+        },
+        {
+            "title": "Random Quotes Generator",
+            "description": "JavaScript",
+            "link": "https://mahmudjewel.github.io/Random-Quotes/",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/js-rq.jpg"
+        },
+        {
+            "title": "Multiplication Table",
+            "description": "JavaScript",
+            "link": "https://mahmudjewel.github.io/Multplication-Table/",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/js-mt.jpg"
+        },
+        {
+            "title": "Book List",
+            "description": "JavaScript",
+            "link": "https://mahmudjewel.github.io/Book-List/",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/js-booklist.jpg"
+        }
+    ],
     "Java": [
         {
             "title": "File Transfering App",
