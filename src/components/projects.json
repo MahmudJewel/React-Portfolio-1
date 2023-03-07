@@ -3,7 +3,7 @@
         {
             "title": "Shopping Mall",
             "description": "Django",
-            "link":"https://github.com/MahmudJewel/E_commerce",
+            "link": "https://github.com/MahmudJewel/E_commerce",
             "imgUrl": "https://live.staticflickr.com/65535/52731890513_15b4a5b4a5_k.jpg"
         },
         {
@@ -67,12 +67,24 @@
             "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
         }
     ],
-
-    "React": [
+    "Full-Stack": [
         {
-            "title": "==> Djangoooooooooooooooo ===> ",
-            "description": "Design & Development",
-            "imgUrl": "projImg1"
+            "title": "E-commerce Backend",
+            "description": "Django & Rest Framework",
+            "link": "https://github.com/MahmudJewel/E-commerce_backend",
+            "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
+        },
+        {
+            "title": "E-commerce Backend",
+            "description": "Django & Rest Framework",
+            "link": "https://github.com/MahmudJewel/E-commerce_backend",
+            "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
+        },
+        {
+            "title": "E-commerce Backend",
+            "description": "Django & Rest Framework",
+            "link": "https://github.com/MahmudJewel/E-commerce_backend",
+            "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
         }
     ]
 }

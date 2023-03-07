@@ -91,16 +91,16 @@ export const Projects = () => {
                         <Nav.Link eventKey="first">Django</Nav.Link>
                       </Nav.Item>
                       <Nav.Item className="col">
-                        <Nav.Link eventKey="">Django+React</Nav.Link>
+                        <Nav.Link eventKey="full-stack">Django+React</Nav.Link>
                       </Nav.Item>
                       <Nav.Item className="col">
-                        <Nav.Link eventKey="">JavaScript</Nav.Link>
+                        <Nav.Link eventKey="js">JavaScript</Nav.Link>
                       </Nav.Item>
                       <Nav.Item className="col">
-                        <Nav.Link eventKey="fourth">Bootstrap</Nav.Link>
+                        <Nav.Link eventKey="bootstrap">Bootstrap</Nav.Link>
                       </Nav.Item>
                       <Nav.Item className="col">
-                        <Nav.Link eventKey="fifth">Java</Nav.Link>
+                        <Nav.Link eventKey="java">Java</Nav.Link>
                       </Nav.Item>
                     </Nav>
                     <Tab.Content
@@ -109,6 +109,7 @@ export const Projects = () => {
                         isVisible ? "animate__animated animate__slideInUp" : ""
                       }
                     >
+                       {/* first event key ====> Django  */}
                       <Tab.Pane eventKey="first">
                         <Row>
                           {projectsData["Django"].map((project, index) => {
@@ -117,23 +118,40 @@ export const Projects = () => {
                           
                         </Row>
                       </Tab.Pane>
-                      <Tab.Pane eventKey="second">
-                        <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Cumque quam, quod neque provident velit, rem
-                          explicabo excepturi id illo molestiae blanditiis,
-                          eligendi dicta officiis asperiores delectus quasi
-                          inventore debitis quo.
-                        </p>
+                      {/* second event key ==== full-stack */}
+                      <Tab.Pane eventKey="full-stack">
+                        <Row>
+                          {projectsData["Full-Stack"].map((project, index) => {
+                            return <ProjectCard key={index} {...project} /> ;
+                          })}
+                          
+                        </Row>
                       </Tab.Pane>
-                      <Tab.Pane eventKey="third">
-                        <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Cumque quam, quod neque provident velit, rem
-                          explicabo excepturi id illo molestiae blanditiis,
-                          eligendi dicta officiis asperiores delectus quasi
-                          inventore debitis quo.
-                        </p>
+                      {/* Third event key ==== javaScript */}
+                      <Tab.Pane eventKey="js">
+                        <Row>
+                          {projectsData["Full-Stack"].map((project, index) => {
+                            return <ProjectCard key={index} {...project} /> ;
+                          })}
+                          
+                        </Row>
+                      </Tab.Pane>
+                      {/* Fourth event key ==== bootstrap */}
+                      <Tab.Pane eventKey="bootstrap">
+                        <Row>
+                          {projectsData["Full-Stack"].map((project, index) => {
+                            return <ProjectCard key={index} {...project} /> ;
+                          })}
+                          
+                        </Row>
+                      </Tab.Pane>
+                      <Tab.Pane eventKey="java">
+                        <Row>
+                          {projectsData["Full-Stack"].map((project, index) => {
+                            return <ProjectCard key={index} {...project} /> ;
+                          })}
+                          
+                        </Row>
                       </Tab.Pane>
                     </Tab.Content>
                   </Tab.Container>
