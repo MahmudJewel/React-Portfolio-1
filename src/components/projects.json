@@ -4,73 +4,67 @@
             "title": "Shopping Mall",
             "description": "Django",
             "link":"https://github.com/MahmudJewel/E_commerce",
-            "imgUrl": "https://github.com/MahmudJewel/Django_portfolio/blob/main/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52731890513_15b4a5b4a5_k.jpg"
         },
         {
             "title": "Blog site",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/techvillain",
-            "imgUrl": "https://i.ibb.co/5YgPQS0/dj-blog.png"
+            "imgUrl": "https://live.staticflickr.com/65535/52731815875_ffaa2fc2fa_k.jpg"
         },
         {
             "title": "Grocery Shop",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/Juwel-Mahmud_iTQAN-Django-Task",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52730881062_ba78c4fe27_k.jpg"
         },
         {
             "title": "Online Exam",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/online_exam",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52730881037_a3f0d9d43b_k.jpg"
         },
         {
             "title": "Portfolio-Django",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/portfolioWithDjango",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52731408641_b981cb7293_h.jpg"
         },
         {
             "title": "Weather Detector",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/Weather",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
-        },
-        {
-            "title": "",
-            "description": "Django",
-            "link": "",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52731657274_f11c1f7dcf_h.jpg"
         },
         {
             "title": "ToDoApps",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/ToDoApps",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52731408626_8993b454c1_h.jpg"
         },
         {
             "title": "Taking Notes",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/notes-taking",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52731657294_7319f96666_h.jpg"
         },
         {
             "title": "Student Form",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/studentForm",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52731657319_09a304ca6e_h.jpg"
         },
         {
             "title": "Famous Quotes",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/Quotes",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52730880942_f8a9f6dd17_h.jpg"
         },
         {
             "title": "E-commerce Backend",
             "description": "Django & Rest Framework",
             "link": "https://github.com/MahmudJewel/E-commerce_backend",
-            "imgUrl": "http://mahmudjewel.pythonanywhere.com/static/img/project-img/dj-shoppingMall.jpg"
+            "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
         }
     ],
 
