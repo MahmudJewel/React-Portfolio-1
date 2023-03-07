@@ -4,67 +4,67 @@
             "title": "Shopping Mall",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/E_commerce",
-            "imgUrl": "https://live.staticflickr.com/65535/52731890513_15b4a5b4a5_k.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/dj-shoppingMall.jpg"
         },
         {
             "title": "Blog site",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/techvillain",
-            "imgUrl": "https://live.staticflickr.com/65535/52731815875_ffaa2fc2fa_k.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/dj-blog.jpg"
         },
         {
             "title": "Grocery Shop",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/Juwel-Mahmud_iTQAN-Django-Task",
-            "imgUrl": "https://live.staticflickr.com/65535/52730881062_ba78c4fe27_k.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/dj-glocery.jpg"
         },
         {
             "title": "Online Exam",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/online_exam",
-            "imgUrl": "https://live.staticflickr.com/65535/52730881037_a3f0d9d43b_k.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/dj-onlineExam.jpg"
         },
         {
             "title": "Portfolio-Django",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/portfolioWithDjango",
-            "imgUrl": "https://live.staticflickr.com/65535/52731408641_b981cb7293_h.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/js-portfolio.jpg"
         },
         {
             "title": "Weather Detector",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/Weather",
-            "imgUrl": "https://live.staticflickr.com/65535/52731657274_f11c1f7dcf_h.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/dj-weather.jpg"
         },
         {
             "title": "ToDoApps",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/ToDoApps",
-            "imgUrl": "https://live.staticflickr.com/65535/52731408626_8993b454c1_h.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/dj-todo.jpg"
         },
         {
             "title": "Taking Notes",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/notes-taking",
-            "imgUrl": "https://live.staticflickr.com/65535/52731657294_7319f96666_h.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/dj-takingnotes.jpg"
         },
         {
             "title": "Student Form",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/studentForm",
-            "imgUrl": "https://live.staticflickr.com/65535/52731657319_09a304ca6e_h.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/dj-st.jpg"
         },
         {
             "title": "Famous Quotes",
             "description": "Django",
             "link": "https://github.com/MahmudJewel/Quotes",
-            "imgUrl": "https://live.staticflickr.com/65535/52730880942_f8a9f6dd17_h.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/dj-quotes.jpg"
         },
         {
             "title": "E-commerce Backend",
             "description": "Django & Rest Framework",
             "link": "https://github.com/MahmudJewel/E-commerce_backend",
-            "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/drf-ecom-backend.jpg"
         }
     ],
     "Full-Stack": [
@@ -85,6 +85,20 @@
             "description": "Django & Rest Framework",
             "link": "https://github.com/MahmudJewel/E-commerce_backend",
             "imgUrl": "https://live.staticflickr.com/65535/52730881077_daa8fbeb5b_b.jpg"
+        }
+    ],
+    "Java": [
+        {
+            "title": "File Transfering App",
+            "description": "Java Swing",
+            "link": "https://github.com/MahmudJewel/File-transferring-app",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/jv-file-transferring.jpg"
+        },
+        {
+            "title": "Pharmacy-Store Management System",
+            "description": "Java Swing",
+            "link": "https://github.com/MahmudJewel/Pharmacy-Store-Management-System",
+            "imgUrl": "https://raw.githubusercontent.com/MahmudJewel/Hosting-img/main/project-img/jv-pharmacy.jpg"
         }
     ]
 }

@@ -63,7 +63,7 @@ export const Projects = () => {
                     printer took a galley of type and scrambled it to make a
                     type specimen book.
                   </p>
-                  <Tab.Container id="projects-tabs" defaultActiveKey="first">
+                  <Tab.Container id="projects-tabs" defaultActiveKey="django">
                     {/* <Nav
                       variant="pills"
                       className="nav-pills mb-5 justify-content-center align-items-center"
@@ -88,10 +88,13 @@ export const Projects = () => {
                     {/* ********************  */}
                     <Nav variant="pills" className="mb-5">
                       <Nav.Item className="col">
-                        <Nav.Link eventKey="first">Django</Nav.Link>
+                        <Nav.Link eventKey="django">Django</Nav.Link>
                       </Nav.Item>
                       <Nav.Item className="col">
                         <Nav.Link eventKey="full-stack">Django+React</Nav.Link>
+                      </Nav.Item>
+                      <Nav.Item className="col">
+                        <Nav.Link eventKey="react">React</Nav.Link>
                       </Nav.Item>
                       <Nav.Item className="col">
                         <Nav.Link eventKey="js">JavaScript</Nav.Link>
@@ -110,7 +113,7 @@ export const Projects = () => {
                       }
                     >
                        {/* first event key ====> Django  */}
-                      <Tab.Pane eventKey="first">
+                      <Tab.Pane eventKey="django">
                         <Row>
                           {projectsData["Django"].map((project, index) => {
                             return <ProjectCard key={index} {...project} /> ;
@@ -120,6 +123,15 @@ export const Projects = () => {
                       </Tab.Pane>
                       {/* second event key ==== full-stack */}
                       <Tab.Pane eventKey="full-stack">
+                        <Row>
+                          {projectsData["Full-Stack"].map((project, index) => {
+                            return <ProjectCard key={index} {...project} /> ;
+                          })}
+                          
+                        </Row>
+                      </Tab.Pane>
+                      {/* Third event key ==== full-stack */}
+                      <Tab.Pane eventKey="react">
                         <Row>
                           {projectsData["Full-Stack"].map((project, index) => {
                             return <ProjectCard key={index} {...project} /> ;
@@ -147,7 +159,7 @@ export const Projects = () => {
                       </Tab.Pane>
                       <Tab.Pane eventKey="java">
                         <Row>
-                          {projectsData["Full-Stack"].map((project, index) => {
+                          {projectsData["Java"].map((project, index) => {
                             return <ProjectCard key={index} {...project} /> ;
                           })}
                           
