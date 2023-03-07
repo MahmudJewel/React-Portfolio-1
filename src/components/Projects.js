@@ -130,10 +130,10 @@ export const Projects = () => {
                           
                         </Row>
                       </Tab.Pane>
-                      {/* Third event key ==== full-stack */}
+                      {/* Third event key ==== React */}
                       <Tab.Pane eventKey="react">
                         <Row>
-                          {projectsData["Full-Stack"].map((project, index) => {
+                          {projectsData["React"].map((project, index) => {
                             return <ProjectCard key={index} {...project} /> ;
                           })}
                           
