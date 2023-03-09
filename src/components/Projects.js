@@ -151,7 +151,7 @@ export const Projects = () => {
                       {/* Fourth event key ==== bootstrap */}
                       <Tab.Pane eventKey="bootstrap">
                         <Row>
-                          {projectsData["Full-Stack"].map((project, index) => {
+                          {projectsData["Bootstrap"].map((project, index) => {
                             return <ProjectCard key={index} {...project} /> ;
                           })}
                           
